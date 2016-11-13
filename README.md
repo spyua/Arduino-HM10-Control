@@ -35,7 +35,7 @@ Step2:CONN?<br/>
 Step3:AT+RSSI?<br/>
 
 
-#You can use my Android-HM10-TEST APP to test 
+#You can use my Android-HM10-DIST TEST APP to test 
 If you use my app to connect HM10 module(Slave mode), and use HM10 sent "GET" to cell phone.
 The cell phone will feedback the RSSI and DIST to HM10. The photo as below
 
